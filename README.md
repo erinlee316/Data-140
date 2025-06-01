@@ -1,6 +1,7 @@
 Data 140: Probability for Data Science — Spring 2025
 
-Welcome to my repository for Data 140: Probability for Data Science, a course I completed in Spring 2025 at UC Berkeley. This repo contains my homework and lab assignments from the course.
+Welcome to my repository for Data 140: Probability for Data Science, a course I completed in Spring 2025 at UC Berkeley. 
+This repo contains my homework and lab assignments from the course.
 
 About the Course
 
